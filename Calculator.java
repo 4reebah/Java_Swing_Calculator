@@ -5,9 +5,6 @@ import javax.swing.*;
 
 /**
  * Uses Java Swing to create a simple arithmetic character 
- * 
- * @author Areebah Iqbal
- * @version 05/09/2022
  */
 public class Calculator extends JFrame {
 
